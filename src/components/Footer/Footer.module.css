@@ -1,0 +1,27 @@
+.footer{
+    height: 5vh;
+    width: 100vw;
+    position: fixed;
+    top: 95%;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.87);
+    padding: 10px;
+    display: flex;
+    justify-content: end;
+}
+.footer__price{
+    font-size: 2em;
+    justify-items: center;
+    margin-right: 20px;
+}
+.footer__basket{
+    font-size: 2em;
+    margin-right: 20px;
+}
+.footer_link{
+    text-decoration: none;
+    color: rgb(255, 107, 107);
+}
+.footer_link:hover{
+    color: red;
+}

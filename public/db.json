@@ -1,0 +1,241 @@
+{
+    "sushi" : [
+        {
+            "id": 0,
+            "imageUrl" : "https://static6.tanuki.ru/product/1/CnLqloffl4IFXAKoGKMnQHwLb-y5nJ3f.jpg?width=560&height=560",
+            "name": "Лосось",
+            "types": [0, 1],
+            "sizes": [30, 35, 40],
+            "price": 90,
+            "category": 0,
+            "rating": 4
+        },
+        {
+            "id": 1,
+            "imageUrl" : "https://static6.tanuki.ru/product/1/sPgU_-Etx9DpckWk0sE-l2468v1IiG4k.jpg?width=560&height=560",
+            "name": "Авокадо",
+            "types": [0, 1],
+            "sizes": [30, 35, 40],
+            "price": 65,
+            "category": 0,
+            "rating": 4
+        },
+        {
+            "id": 2,
+            "imageUrl" : "https://static6.tanuki.ru/product/1/em4M6BVLTaNCl2uwN0PD-EX44o0Ct89e.jpg?width=560&height=560",
+            "name": "Угорь",
+            "types": [0, 1],
+            "sizes": [30, 35, 40],
+            "price": 85,
+            "category": 0,
+            "rating": 4
+        },
+        {
+            "id": 3,
+            "imageUrl" : "https://static6.tanuki.ru/product/1/m0o6XGORSZBJmj8MP1aTGEp7w7eShSsd.jpg?width=560&height=560",
+            "name": "Тунец",
+            "types": [0, 1],
+            "sizes": [30, 35, 40],
+            "price": 80,
+            "category": 0,
+            "rating": 4
+        },
+        {
+            "id": 4,
+            "imageUrl" : "https://static6.tanuki.ru/product/1/H9KESafRCXspEBF3N9bRRn4UEnrLQwKA.jpg?width=560&height=560",
+            "name": "Креветка",
+            "types": [0, 1],
+            "sizes": [30, 35, 40],
+            "price": 80,
+            "category": 0,
+            "rating": 4
+        },
+        {
+            "id": 5,
+            "imageUrl" : "https://www.tanuki.ru//common/upload/Gunkan-SpicySyake_1164x1164.jpg?width=560&height=560",
+            "name": "Лосось спайс",
+            "types": [0, 1],
+            "sizes": [30, 35, 40],
+            "price": 110,
+            "category": 0,
+            "rating": 4
+        },
+        {
+            "id": 6,
+            "imageUrl" : "https://www.tanuki.ru//common/upload/Gunkan-SpicyEbi_1164x1164.jpg?width=560&height=560",
+            "name": "Креветка спайс",
+            "types": [0, 1],
+            "sizes": [30, 35, 40],
+            "price": 120,
+            "category": 0,
+            "rating": 4
+        },
+        {
+            "id": 7,
+            "imageUrl" : "https://www.tanuki.ru//common/upload/Gunkan-SpicyHotate_1164x1164[1][1].jpg?width=560&height=560",
+            "name": "Гребешок спайс",
+            "types": [0, 1],
+            "sizes": [30, 35, 40],
+            "price": 120,
+            "category": 0,
+            "rating": 4
+        },
+        {
+            "id": 8,
+            "imageUrl" : "https://www.tanuki.ru//common/upload/Gunkan-Ikura_1164x1164.jpg?width=560&height=560",
+            "name": "Красная икра",
+            "types": [0, 1],
+            "sizes": [30, 35, 40],
+            "price": 150,
+            "category": 0,
+            "rating": 4
+        },
+        {
+            "id": 9,
+            "imageUrl" : "https://www.tanuki.ru//common/upload/Gunkan-Kani_1164x1164[1].jpg?width=560&height=560",
+            "name": "Краб",
+            "types": [0, 1],
+            "sizes": [30, 35, 40],
+            "price": 150,
+            "category": 0,
+            "rating": 4
+        }
+    ],
+    "Rolls" : [
+        {
+            "id": 0,
+            "imageUrl" : "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/1df00c72-f3fd-4d4e-8537-3ff74035c2dc.jpg",
+            "name": "Пепперони Фреш с перцем",
+            "types": [0, 1],
+            "sizes": [30, 35, 40],
+            "price": 499,
+            "category": 0,
+            "rating": 4
+        },
+        {
+            "id": 1,
+            "imageUrl" : "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/1df00c72-f3fd-4d4e-8537-3ff74035c2dc.jpg",
+            "name": "Пепперони Фреш с перцем2",
+            "types": [0, 1],
+            "sizes": [30, 35, 40],
+            "price": 499,
+            "category": 0,
+            "rating": 4
+        },
+        {
+            "id": 2,
+            "imageUrl" : "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/1df00c72-f3fd-4d4e-8537-3ff74035c2dc.jpg",
+            "name": "Пепперони Фреш с перцем3",
+            "types": [0, 1],
+            "sizes": [30, 35, 40],
+            "price": 499,
+            "category": 0,
+            "rating": 4
+        },
+        {
+            "id": 3,
+            "imageUrl" : "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/1df00c72-f3fd-4d4e-8537-3ff74035c2dc.jpg",
+            "name": "Пепперони Фреш с перцем4",
+            "types": [0, 1],
+            "sizes": [30, 35, 40],
+            "price": 499,
+            "category": 0,
+            "rating": 4
+        },
+        {
+            "id": 4,
+            "imageUrl" : "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/1df00c72-f3fd-4d4e-8537-3ff74035c2dc.jpg",
+            "name": "Пепперони Фреш с перцем5",
+            "types": [0, 1],
+            "sizes": [30, 35, 40],
+            "price": 499,
+            "category": 0,
+            "rating": 4
+        },
+        {
+            "id": 5,
+            "imageUrl" : "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/1df00c72-f3fd-4d4e-8537-3ff74035c2dc.jpg",
+            "name": "Пепперони Фреш с перцем6",
+            "types": [0, 1],
+            "sizes": [30, 35, 40],
+            "price": 499,
+            "category": 0,
+            "rating": 4
+        },
+        {
+            "id": 6,
+            "imageUrl" : "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/1df00c72-f3fd-4d4e-8537-3ff74035c2dc.jpg",
+            "name": "Пепперони Фреш с перцем7",
+            "types": [0, 1],
+            "sizes": [30, 35, 40],
+            "price": 499,
+            "category": 0,
+            "rating": 4
+        },
+        {
+            "id": 7,
+            "imageUrl" : "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/1df00c72-f3fd-4d4e-8537-3ff74035c2dc.jpg",
+            "name": "Пепперони Фреш с перцем8",
+            "types": [0, 1],
+            "sizes": [30, 35, 40],
+            "price": 499,
+            "category": 0,
+            "rating": 4
+        },
+        {
+            "id": 8,
+            "imageUrl" : "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/1df00c72-f3fd-4d4e-8537-3ff74035c2dc.jpg",
+            "name": "Пепперони Фреш с перцем9",
+            "types": [0, 1],
+            "sizes": [30, 35, 40],
+            "price": 499,
+            "category": 0,
+            "rating": 4
+        },
+        {
+            "id": 9,
+            "imageUrl" : "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/1df00c72-f3fd-4d4e-8537-3ff74035c2dc.jpg",
+            "name": "Пепперони Фреш с перцем",
+            "types": [0, 1],
+            "sizes": [30, 35, 40],
+            "price": 499,
+            "category": 0,
+            "rating": 4
+        }
+    ],
+    "menu": [
+        {
+            "name":"Суши",
+            "id":1,
+            "link":"/menu/sushi",
+            "img": "https://www.tanuki.ru/common/upload/03-sushi%5B1%5D.jpg?width=240&height=240"
+        }, 
+        {
+            "name":"Роллы", 
+            "id":2,
+            "link":"/menu/roll", 
+            "img": "https://www.tanuki.ru//common/upload/Syake-kaliforniya[33].jpg?width=560&height=560"
+        }, 
+        {
+            "name":"Сеты", 
+            "id":3,
+            "link":"/menu/set", 
+            "img": "https://static6.tanuki.ru/product/1/Ri2UfZurjttXJoDKS4EXOwUuUhzgkMk6.jpg?width=560&height=560"
+        }, 
+        {
+            "name":"Супы", 
+            "id":4,
+            "link":"/menu/soup", 
+            "img": "https://www.tanuki.ru//common/upload/GunikuChili_1164[1][1].jpg?width=560&height=560"}, 
+        {
+            "name":"Десерты", 
+            "id":5,
+            "link":"/menu/dessert", 
+            "img": "https://www.tanuki.ru//common/upload/AmaiMiru_1164[4].jpg?width=560&height=560"},
+        {
+            "name":"Напитки", 
+            "id":6,
+            "link":"/menu/drinks", 
+            "img": "https://static6.tanuki.ru/product/1/xyJNPf4HDL30-yQjYC0N5imuPBxYk0V1.jpg?width=560&height=560"}
+    ]
+}

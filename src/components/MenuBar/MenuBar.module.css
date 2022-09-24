@@ -1,0 +1,29 @@
+.link{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.596);
+    font-size: 1.2em;
+}
+.link:hover{
+    color: #000;
+}
+.MenuBar__main {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+    
+}
+.MenuBar__main img{
+    height: 100px;
+    width: 100px;
+}
+.MenuBar__main .name{
+    margin-bottom: 10px;
+}
+.active{
+    background-color: rgb(206, 59, 59);
+    height: 5px;
+}
+.disable{
+    height: 5px;
+}

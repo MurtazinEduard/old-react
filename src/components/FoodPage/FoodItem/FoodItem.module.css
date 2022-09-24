@@ -1,0 +1,40 @@
+.FoodItem__main{
+    margin-bottom: 30px;
+}
+.link{
+    text-decoration: none;
+}
+.food__item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 5px 5px;
+    margin: 0 5px;
+}
+.food__item img{
+    height: 220px;
+    width: 220px;
+}
+.food__item__name{
+    text-align: center;
+    color: black;
+    font-size: 1em;
+    margin-top: 10px;
+    font-size: 1.8em;
+}
+.counter{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10px 0 20px;
+    color: #000;
+    font-size: 1.2em;
+}
+.counter__value{
+    display: flex;
+    justify-content: space-around;
+}
+.counter__button{
+    cursor: pointer;
+    padding: 0 10px;
+}
+
